@@ -1,0 +1,88 @@
+Summary: null
+summary_year: 2019
+Summary_Country: USA
+Hierarchy: proposals/federal_reserve
+title: My title
+author:
+  name: Anonymous
+  email: anonymous@gmail.com
+describe_problem_area: |
+  Description
+Reasoning: ''
+Reasoning_on_size_of_Problem:
+  - Reasoning: ''
+  - Percent_of_Industry_that_is_Unethical: null
+  - How_Summary_is_Calculated: >
+      # {~C~}This is just an example illustration.  It should be replaced
+      by{~C~} # {~C~}the problem pospoals author with their reasoning.{~C~}
+            
+Size_of_Industry:
+  - Year: 2008
+    Industry: '$??,???,???,???'
+    Source: xxxxx
+Sources_and_Quotes:
+  - QUOTE: 1
+    TOPIC: Did any of this happen?
+    URL: 'https://www.URL.com/'
+    DESCRIPTION: ''
+  - QUOTE: 2
+    TOPIC: Which firms used
+    BOOK: xxxxxxxxxxx
+    AUTHOR: Frank Lewis
+    Description: ''
+  - QUOTE: 14
+    TOPIC: Some Cases Studies
+    BOOK: xxxxxxx
+    AUTHOR: Patterson
+    URL: 'https://www.URL.com/'
+    Case_Study_1: |
+      xxxxxxx
+    Case_Study_2: |
+      xxxxxxx
+Primary_years:
+  - 2005
+  - 2006
+  - 2007
+  - 2008
+  - 2009
+  - 2010
+  - 2011
+  - 2012
+  - 2013
+  - 2014
+  - 2015
+  - 2016
+Prioritize_Voting_Years:
+  - 2007
+  - 2008
+  - 2009
+  - 2010
+  - 2011
+  - 2012
+  - 2013
+  - 2014
+  - 2015
+  - 2016
+  - 2005
+  - 2006
+Google-Doc-support-file: >-
+  https://docs.google.com/document/d/1T9yS1zbicKVK_6sqelwxPrIg92CtWfe4WI720k7eMMc/edit#heading=h.8hzbartkmobn
+Research:
+  - Book: xxxxxxx
+    author: Patterson
+    url: 'https://www.URL.com/'
+  - Article: xxxxx
+    url: 'https://www.URL.com/'
+    quote_1: |
+      xxxxxx
+    quote_2: |
+      xxxxxx
+  - Helpful links:
+      urlmaster_1: 'https://URL.com/'
+      url1: 'https://www.URL.com/'
+Companies_referred_to_in_Problem:
+  - FooCorp.com
+  - BarCorp.com
+LICENSE: CREATIVE COMMONS
+summary_Country: USA
+summary: $0
