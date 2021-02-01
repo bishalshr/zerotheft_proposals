@@ -1,4 +1,4 @@
-summary: $22.5T
+summary: $2T
 summary_year: 2019
 summary_country: USA
 hierarchy: proposals/economic_crisis/2008_mortgage/aig
@@ -6,7 +6,7 @@ title: >-
   Did AIG steal money by a rigged economy by selling CDS insurance that the
   prices of houses would not go down (when selling that insurance was unethical)
 author:
-  name: anonymous
+  name: ~C~anonymous~C~
   email: anonymous@example.com
 describe_problem_area: >
   Prior to the 2008 financial crisis, American International Group Inc. (AIG)
