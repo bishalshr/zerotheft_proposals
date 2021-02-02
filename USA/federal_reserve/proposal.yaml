@@ -1,4 +1,4 @@
-summary: $20T
+summary: $2.1T
 summary_year: 2019
 summary_country: USA
 hierarchy: proposals/federal_reserve
@@ -6,7 +6,7 @@ title: ~C~please enter a short (150 characters or less) title for this problem~C
 author:
   name: ~C~anonymous~C~
   email: anonymous@example.com
-describe_problem_area: ksom
+describe_problem_area: sess
 reasoning: >
   ~C~Provide a chain of reasoning that backs up your case for why this is a
   problem and why the economy is rigged (or not)~C~
