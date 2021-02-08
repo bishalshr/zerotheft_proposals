@@ -1,57 +1,33 @@
 summary: $0
-summary_year: 2019
+summary_year: 2020
 summary_country: USA
-hierarchy: proposals/economic_crisis/2008_mortgage/aig
+hierarchy: economic_crisis/2008_mortgage/aig
 title: >-
   Did AIG steal money by a rigged economy by selling CDS insurance that the
   prices of houses would not go down (when selling that insurance was unethical)
 author:
   name: ~C~anonymous~C~
   email: anonymous@example.com
-describe_problem_area: >
+describe_problem_area: >-
   Prior to the 2008 financial crisis, American International Group Inc. (AIG)
-  was the
-
-  major insurance company in the world. However, due to several derivative
-  transactions not
-
-  related to its core business, AIG collapsed in September 2008. Before its
-  collapse in September 2008, AIG was the largest insurance company in the
-
-  world. By early 2007, its reported consolidated total asset was more than $1
-  trillion.
-
-  Let’s learn what CDOs and CDS mainly are?
-
+  was the major insurance company in the world. However, due to several
+  derivative transactions not related to its core business, AIG collapsed in
+  September 2008. Before its collapse in September 2008, AIG was the largest
+  insurance company in the world. By early 2007, its reported consolidated total
+  asset was more than $1 trillion. Let’s learn what CDOs and CDS mainly are?
   CDOs are a type of structured asset-backed security (ABS) whose value and
-  payments
-
-  are derived from and collateralized (or “backed”) by a portfolio of
-  fixed-income underlying
-
-  assets.
-
-  The investors who buy those securities often manage the risk by acquiring a
-  CDS. CDS is an over-the-counter (OTC) off-balance-sheet derivative instrument
-  that permits one party (the
-
+  payments are derived from and collateralized (or “backed”) by a portfolio of
+  fixed-income underlying assets. The investors who buy those securities often
+  manage the risk by acquiring a CDS. CDS is an over-the-counter (OTC)
+  off-balance-sheet derivative instrument that permits one party (the
   beneficiary) to transfer the credit risk of a reference asset, which it
-  typically owns, to another
-
-  party (the guarantor) without actually selling the asset. The beneficiary
-  agrees to make payments based on the notional amount (premium) to the
-  guarantor, who agrees to pay a certain
-
-  amount of money in the event of default of the reference asset.
-
-  The easy way to understand CDSs ("Credit Default Swaps") is that they are an
-  insurance policy, for 
-
-  investors who purchased (own as investors) a block of mortgages (MBSs) and
-  this insurance pays them back
-
-  for any DROP in value (aka if house prices go down).
-
+  typically owns, to another party (the guarantor) without actually selling the
+  asset. The beneficiary agrees to make payments based on the notional amount
+  (premium) to the guarantor, who agrees to pay a certain amount of money in the
+  event of default of the reference asset. The easy way to understand CDSs
+  ("Credit Default Swaps") is that they are an insurance policy, for investors
+  who purchased (own as investors) a block of mortgages (MBSs) and this
+  insurance pays them back for any DROP in value (aka if house prices go down).
   How AIG led to the financial crisis in 2008? How did this affect the people?
   Did AIG steal money by a rigged economy by selling CDS insurance?
 reasoning: >
